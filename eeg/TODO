@@ -1,0 +1,16 @@
+Presentation slides:
+- Introduction
+- Aim / Benefit of app
+- Solution to problem
+- Datasets (1v2, 1v3, etc...), train-test split, CV
+- One example of informed consent of patients
+
+App interface:
+- Simple GUI, includes HELP button with instructions available everywhere
+- Two different GUIs for patients and physicians
+- Medical device colours (blue, green, red)
+- Exit at any time
+- Output should be diagnostic report (patient ID)
+
+Threshold p of not class 1 = 70% -> output 100 - p
+Otherwise -> output average probability of class 1 across 4 dfs

@@ -1,0 +1,143 @@
+Linear standardized SVC (C=1) 1v2
+Specificity: 46.8% +- 21.1%
+Sensitivity: 100.0% +- 0.0%
+Accuracy: 74.0% +- 10.5%
+ROC-AUC: 73.4% +- 10.6%
+
+Linear standardized SVC (C=5) 1v2
+Specificity: 54.8% +- 17.2%
+Sensitivity: 100.0% +- 0.0%
+Accuracy: 78.0% +- 8.5%
+ROC-AUC: 77.4% +- 8.6%
+
+Linear standardized SVC (C=10) 1v2
+Specificity: 49.5% +- 20.0%
+Sensitivity: 97.5% +- 5.0%
+Accuracy: 74.0% +- 10.9%
+ROC-AUC: 73.5% +- 11.1%
+
+Linear standardized SVC (C=1) 1v3
+Specificity: 58.9% +- 12.3%
+Sensitivity: 100.0% +- 0.0%
+Accuracy: 80.0% +- 6.0%
+ROC-AUC: 79.5% +- 6.1%
+
+Linear standardized SVC (C=5) 1v3
+Specificity: 60.2% +- 18.4%
+Sensitivity: 100.0% +- 0.0%
+Accuracy: 80.7% +- 8.7%
+ROC-AUC: 80.1% +- 9.2%
+
+Linear standardized SVC (C=10) 1v3
+Specificity: 64.3% +- 17.1%
+Sensitivity: 100.0% +- 0.0%
+Accuracy: 82.7% +- 8.0%
+ROC-AUC: 82.1% +- 8.6%
+
+Linear standardized SVC (C=1) 1v4
+Specificity: 43.6% +- 22.3%
+Sensitivity: 98.8% +- 3.8%
+Accuracy: 72.0% +- 10.2%
+ROC-AUC: 71.2% +- 10.9%
+
+Linear standardized SVC (C=5) 1v4
+Specificity: 41.1% +- 21.4%
+Sensitivity: 97.5% +- 5.0%
+Accuracy: 70.0% +- 10.9%
+ROC-AUC: 69.3% +- 11.3%
+
+Linear standardized SVC (C=10) 1v4
+Specificity: 45.4% +- 25.3%
+Sensitivity: 97.5% +- 5.0%
+Accuracy: 72.0% +- 12.6%
+ROC-AUC: 71.4% +- 13.0%
+
+Linear standardized SVC (C=1) 1v5
+Specificity: 45.4% +- 10.8%
+Sensitivity: 100.0% +- 0.0%
+Accuracy: 73.3% +- 6.0%
+ROC-AUC: 72.7% +- 5.4%
+
+Linear standardized SVC (C=5) 1v5
+Specificity: 47.9% +- 21.3%
+Sensitivity: 100.0% +- 0.0%
+Accuracy: 74.7% +- 10.7%
+ROC-AUC: 73.9% +- 10.7%
+
+Linear standardized SVC (C=10) 1v5
+Specificity: 46.2% +- 24.5%
+Sensitivity: 98.8% +- 3.8%
+Accuracy: 73.3% +- 11.5%
+ROC-AUC: 72.5% +- 12.1%
+
+Linear standardized SVC (C=15) 1v2
+Specificity: 50.9% +- 21.9%
+Sensitivity: 97.5% +- 5.0%
+Accuracy: 74.7% +- 11.9%
+ROC-AUC: 74.2% +- 12.1%
+
+Linear standardized SVC (C=20) 1v2
+Specificity: 50.9% +- 21.9%
+Sensitivity: 97.5% +- 5.0%
+Accuracy: 74.7% +- 11.1%
+ROC-AUC: 74.2% +- 11.3%
+
+Linear standardized SVC (C=50) 1v2
+Specificity: 49.3% +- 19.1%
+Sensitivity: 92.3% +- 6.3%
+Accuracy: 71.3% +- 10.8%
+ROC-AUC: 70.8% +- 11.0%
+
+Linear standardized SVC (C=15) 1v3
+Specificity: 58.8% +- 15.5%
+Sensitivity: 97.5% +- 5.0%
+Accuracy: 78.7% +- 8.8%
+ROC-AUC: 78.1% +- 9.3%
+
+Linear standardized SVC (C=20) 1v3
+Specificity: 58.8% +- 15.5%
+Sensitivity: 97.5% +- 5.0%
+Accuracy: 78.7% +- 8.3%
+ROC-AUC: 78.1% +- 8.8%
+
+Linear standardized SVC (C=50) 1v3
+Specificity: 56.1% +- 22.4%
+Sensitivity: 94.8% +- 8.5%
+Accuracy: 76.0% +- 10.4%
+ROC-AUC: 75.4% +- 10.9%
+
+Linear standardized SVC (C=15) 1v4
+Specificity: 45.2% +- 24.3%
+Sensitivity: 97.5% +- 5.0%
+Accuracy: 72.0% +- 12.2%
+ROC-AUC: 71.3% +- 12.9%
+
+Linear standardized SVC (C=20) 1v4
+Specificity: 43.8% +- 22.2%
+Sensitivity: 97.5% +- 5.0%
+Accuracy: 71.3% +- 11.6%
+ROC-AUC: 70.6% +- 12.2%
+
+Linear standardized SVC (C=50) 1v4
+Specificity: 45.2% +- 19.6%
+Sensitivity: 96.2% +- 5.7%
+Accuracy: 71.3% +- 10.8%
+ROC-AUC: 70.7% +- 11.3%
+
+Linear standardized SVC (C=15) 1v5
+Specificity: 47.9% +- 26.4%
+Sensitivity: 98.8% +- 3.8%
+Accuracy: 74.0% +- 12.8%
+ROC-AUC: 73.3% +- 13.1%
+
+Linear standardized SVC (C=20) 1v5
+Specificity: 51.6% +- 25.0%
+Sensitivity: 98.8% +- 3.8%
+Accuracy: 76.0% +- 11.6%
+ROC-AUC: 75.2% +- 12.5%
+
+Linear standardized SVC (C=50) 1v5
+Specificity: 52.0% +- 19.9%
+Sensitivity: 98.8% +- 3.8%
+Accuracy: 76.0% +- 9.5%
+ROC-AUC: 75.4% +- 10.0%
